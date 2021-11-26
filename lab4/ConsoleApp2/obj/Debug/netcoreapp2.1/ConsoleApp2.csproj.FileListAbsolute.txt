@@ -1,0 +1,33 @@
+H:\Кремза\2\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.deps.json
+H:\Кремза\2\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.runtimeconfig.json
+H:\Кремза\2\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.runtimeconfig.dev.json
+H:\Кремза\2\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.dll
+H:\Кремза\2\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.pdb
+H:\Кремза\2\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.csprojAssemblyReference.cache
+H:\Кремза\2\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+H:\Кремза\2\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.AssemblyInfoInputs.cache
+H:\Кремза\2\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.AssemblyInfo.cs
+H:\Кремза\2\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.dll
+H:\Кремза\2\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.pdb
+H:\Кремза\4\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.deps.json
+H:\Кремза\4\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.runtimeconfig.json
+H:\Кремза\4\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.runtimeconfig.dev.json
+H:\Кремза\4\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.dll
+H:\Кремза\4\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.pdb
+H:\Кремза\4\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.csprojAssemblyReference.cache
+H:\Кремза\4\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+H:\Кремза\4\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.AssemblyInfoInputs.cache
+H:\Кремза\4\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.AssemblyInfo.cs
+H:\Кремза\4\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.dll
+H:\Кремза\4\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.pdb
+E:\4 курс\Кремза\4\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.deps.json
+E:\4 курс\Кремза\4\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.runtimeconfig.json
+E:\4 курс\Кремза\4\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.runtimeconfig.dev.json
+E:\4 курс\Кремза\4\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.dll
+E:\4 курс\Кремза\4\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.pdb
+E:\4 курс\Кремза\4\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.csprojAssemblyReference.cache
+E:\4 курс\Кремза\4\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\4 курс\Кремза\4\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.AssemblyInfoInputs.cache
+E:\4 курс\Кремза\4\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.AssemblyInfo.cs
+E:\4 курс\Кремза\4\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.dll
+E:\4 курс\Кремза\4\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.pdb
